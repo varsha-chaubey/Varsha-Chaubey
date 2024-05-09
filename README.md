@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varsha-chaubey&label=Profile%20views&color=0e75b6&style=flat" alt="varsha-chaubey" /> </p>
 
-- 🔭 I’m currently working at [CodeMaya](https://www.codemaya.com/)
+- 🔭 I’m currently working at [WebExcellis](https://webexcellis.com/)
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js**
 
 - 💬 Ask me about **react & express**
 
-- 📫 How to reach me **varshachaubey63@gmail.com**
+- 📫 How to reach me **varshachn18@gmail.com**
 
 - ⚡ Fun fact **Most Developers Are Self Taught**
 
