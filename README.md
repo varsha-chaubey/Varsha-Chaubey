@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varsha-chaubey&label=Profile%20views&color=0e75b6&style=flat" alt="varsha-chaubey" /> </p>
 
-- 🔭 I’m currently working at [WebExcellis](https://webexcellis.com/)
+- 🔭 I’m currently working at [nothuman.ai](https://nothuman.ai/)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Vite.js**
 
-- 💬 Ask me about **react & express**
+- 💬 Ask me about **Next, React & express**
 
 - 📫 How to reach me **varshachn18@gmail.com**
 
